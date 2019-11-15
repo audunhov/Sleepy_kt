@@ -1,0 +1,5 @@
+name: Base_Plugin
+main: me.audunhov.ktbaseplugin.main
+version: 1.0
+author: audunhov
+description: Base kotlin Bukkit plugin
